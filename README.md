@@ -10,7 +10,7 @@ i always love data & Product because we lived and data , recently internship at 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Personal Website's](http://helmimuharrom.me)
 * ✉️  You can contact me at [helmi@mhs.pelitabangsa.ac.id](mailto:helmi@mhs.pelitabangsa.ac.id)
-* 🧠  Currently  learning  [Data Analyst](https://mavenanalytics.io/)
+* 🧠  Currently  learning  Data Analyst in[here](https://mavenanalytics.io/) and [Here](https://app.dataquest.io/)
 
 ### Skills
 
