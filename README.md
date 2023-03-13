@@ -28,7 +28,7 @@ i always love data & Product because we lived and data , recently internship at 
 <p align="left"> <a href="https://www.linkedin.com/in/muhammad-helmi-muharrom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@helmi_38756" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 
-
-
+🤗 Thank You!
+Thank you so much for visiting my tiny space on GitHub! ✌️
 
 
